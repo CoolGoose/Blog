@@ -38,7 +38,7 @@ Followed by a composer update
 
 ## Resources
 
-- [View the changelog](CHANGELOG.md)
+- [View the changelog](changelog.yml)
 - [Contribute to AsgardCMS](CONTRIBUTING.md)
 - [License](LICENSE.md)
 
